@@ -1,35 +1,37 @@
-body{
-    background:url("hack.jpg");
-   
+body {
+    background: url("hack.jpg");
     display: flex;
     justify-content: center;
-    margin-top: 175px;
-  }
-  form{
-    
-    color:green;
-   
+    margin-top: 12%;
+}
+
+form {
+    color: green;
     padding: 2rem;
-    
-  }
-  header{
-    background-color:rgba(0, 0, 0, 0.664);
-    margin-top: 50px;
-    width:100%;
+}
+
+header {
+    background-color: rgba(0, 0, 0, 0.664);
+    margin-top: 7VW;
+    width: 100%;
     align-items: center;
     text-align: center;
     padding-left: 20rem;
     padding-right: 20rem;
-  }
-  #text{
-    margin-bottom:  20px;
-  }
-  button{
-    margin-top: 20px;
-    margin-left: 30px;
+}
+
+#text {
+    margin-bottom: 2VW;
+}
+
+button {
+    margin-top: 1VW;
+    margin-left: 1vw;
     border: 2px green dotted;
-    color:aliceblue;
+    color: aliceblue;
     background-color: green;
-    
-  }
-  
+}
+
+.button {
+    margin-left: 1vw;
+}
